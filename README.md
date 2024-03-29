@@ -10,6 +10,6 @@ La idea de este ejercicio es que usted pueda:
 -	Usar alineaciones de texto
 -	Usar efectos de texto (negrita, cursiva, etc)
 -	Usar etiquetas anidadas
-<img src="https://ibb.co/z6YFyQD" height="200px">
+<img href="[![objetivo.png](https://i.postimg.cc/VvCwGmC2/objetivo.png)](https://postimg.cc/K3xC4XQ5)">
 
 nota: use css para los estilos.
