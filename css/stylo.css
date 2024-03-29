@@ -1,0 +1,24 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: cadetblue;
+    font-size: 25px;
+}
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+        
+  }
+
+.autor {
+    text-align:right ;
+}
+.fecha {
+    text-align:right ;
+}
